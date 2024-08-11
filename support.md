@@ -6,10 +6,10 @@ Welcome to the Linky Lines support page. We're here to help!
 **Email:** jimrogerz@gmail.com
 
 ### Report a Bug or Suggestion
-https://github.com/jimrogerz/linkylines/issues
+[https://github.com/jimrogerz/linkylines/issues](https://github.com/jimrogerz/linkylines/issues)
 
 ### Privacy Policy
-https://jimrogerz.github.io/linkylines/privacy
+[https://jimrogerz.github.io/linkylines/privacy](https://jimrogerz.github.io/linkylines/privacy)
 
 ## FAQ
 
