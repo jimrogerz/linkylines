@@ -19,7 +19,7 @@ Connect all like colored pairs of dots to clear a level.
 
 ### How can I remove ads?
 
-You'll find a `Remove ads` button in settings, which is $1.99 US. Thanks for your support!
+You'll find a `Remove ads` button in settings, which is $1.99 US.
 
 ### What devices is the game compatible with?
 
