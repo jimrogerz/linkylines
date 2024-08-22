@@ -3,7 +3,7 @@
 Welcome to the Linky Lines support page. We're here to help!
 
 ### Contact Us
-**Email:** jimrogerz@gmail.com
+**Email:** linkylinesgame@gmail.com
 
 ### Report a Bug or Suggestion
 [https://github.com/jimrogerz/linkylines/issues](https://github.com/jimrogerz/linkylines/issues)
