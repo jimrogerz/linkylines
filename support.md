@@ -17,6 +17,10 @@ Welcome to the Linky Lines support page. We're here to help!
 
 Connect all like colored pairs of dots to clear a level.
 
+### Why are some levels I completed no longer checked?
+
+We may publish updates to the levels from time to time. New levels that have not been completed will not be checked.
+
 ### How can I remove ads?
 
 You'll find a `Remove ads` button in settings, which is $1.99 US.
