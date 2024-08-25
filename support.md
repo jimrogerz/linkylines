@@ -24,5 +24,5 @@ You'll find a `Remove ads` button in settings, which is $1.99 US.
 ### What devices is the game compatible with?
 
 * iPhone and iPad with iOS version 12+
-* Android coming soon!
+* Android is in pre-release mode. You can try it by joining [https://groups.google.com/g/linkylines](https://groups.google.com/g/linkylines), and installing it from [https://play.google.com/apps/testing/com.jimrogers.linkylines](https://play.google.com/apps/testing/com.jimrogers.linkylines).
 
