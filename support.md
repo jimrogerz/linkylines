@@ -23,7 +23,7 @@ We may publish updates to the levels from time to time. New levels that have not
 
 ### How can I remove ads?
 
-You'll find a `Remove ads` button in settings, which is $1.99 US.
+Most of the full screen ads between levels can be closed early by clicking in the upper left corner of the ad. You'll also find a `Remove ads` button in settings, which is $1.99 US.
 
 ### What devices is the game compatible with?
 
